@@ -8,7 +8,7 @@
 
 <h3 align="center"> About Me </h3> 
 
-I'm an automotive engineer student at Universidade Federal de Santa Catarina (UFSC) with a passion for vehicle dynamics and simulation. I also have experience as a sim racer for the brazilian #268 Racing Team in private leagues of Assetto Corsa, Assetto Corsa Competizione, iRacing and Automobilista.
+I'm an automotive engineer student at Universidade Federal de Santa Catarina (UFSC) with a passion for vehicle dynamics and simulation. I also have experience as a sim racer for the brazilian #268 Racing Team in private leagues of Assetto Corsa, Assetto Corsa Competizione, Automobilista and iRacing.
 
 
 
@@ -19,6 +19,23 @@ I'm an automotive engineer student at Universidade Federal de Santa Catarina (UF
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python">
 </p> 
 
+<h3 align="center"> Tools </h3> 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/abaqus-009C94?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="abaqus">
+  <img src="https://img.shields.io/badge/excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="excel">
+  <img src="https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white" alt="latex">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"><br>
+  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="photoshop">
+  <img src="https://img.shields.io/badge/scilab-CD1925?style=for-the-badge&logo=scilab&logoColor=white" alt="scilab">
+  <img src="https://img.shields.io/badge/solidworks-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="solidworks">
+</p> 
+
+<h3 align="center"> Languages </h3>
+<p align="center"> 
+  Portuguese - Native <br>
+  English - Fluent <br>
+  Japanese - Basic
+</p> 
 <h3 align="center"> Get in Touch </h3>
 
 <p align="center"> 
