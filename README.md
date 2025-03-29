@@ -8,9 +8,15 @@
 
 <h3 align="center"> About Me </h3> 
 
-I'm an automotive engineer student at Universidade Federal de Santa Catarina (UFSC) with a passion for vehicle dynamics and simulation. I also have experience as a sim racer for the brazilian #268 Racing Team in private leagues of Assetto Corsa, Assetto Corsa Competizione, Automobilista and iRacing.
+I'm an automotive engineering student at Universidade Federal de Santa Catarina (UFSC), passionate about vehicle dynamics, control systems and simulation development. I'm currently working on C++-based simulations as part of my final project and am open to freelance or collaborative opportunities in the field.
 
+I also have experience as a sim racer for the Brazilian #268 Racing Team in private Assetto Corsa, ACC, Automobilista and iRacing leagues.
 
+<h3 align="center"> 🚧 Ongoing Projects </h3>
+
+- 🔬 **cpp-physics-simulations**: A collection of basic physics simulations implemented in C++.
+- 🚗 **SuspensionSim**: My senior project – a simulation and control tool for a 4-wheel suspension system.
+- 📘 Upcoming: C++ + OpenGL visualizations for engineering.
 
 <h3 align="center"> Skills </h3> 
 <p align="center"> 
@@ -30,12 +36,13 @@ I'm an automotive engineer student at Universidade Federal de Santa Catarina (UF
   <img src="https://img.shields.io/badge/solidworks-DA291C?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="solidworks">
 </p> 
 
-<h3 align="center"> Languages </h3>
+<h3 align="center"> 🌐 Languages </h3>
 <p align="center"> 
-  Portuguese - Native <br>
-  English - Fluent <br>
-  Japanese - Basic
+  🇧🇷 Portuguese — Native <br>
+  🇺🇸 English — Fluent (C2 EF SET) <br>
+  🇯🇵 Japanese — Basic (N5)
 </p> 
+
 <h3 align="center"> Get in Touch </h3>
 
 <p align="center"> 
