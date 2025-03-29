@@ -1,7 +1,6 @@
 <h3 align="center"> 
   <img src="" alt=""> <br>
   <img src="https://media.licdn.com/dms/image/v2/D5616AQHsNjxpzRakHQ/profile-displaybackgroundimage-shrink_350_1400/B56ZXjem1gGcAY-/0/1743278208014?e=1748476800&v=beta&t=r760tJVZWwX1AzbajC1YPaCcHw1cyXLrMx9kcaWFk_M" alt="banner">
-  <em>▇ ▇ 🅻🆄🅸🆉 🆂🅲🅷🅼🅸🆃🆉 ▇ ▇</em> <br>
 </h3>
 <p align="center">
   Engineering student | Virtual Motorsports Enthusiast | Simulation Developer Aspirant
